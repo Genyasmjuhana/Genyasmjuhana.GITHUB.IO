@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Web Test</title>
+        <style>
+            body {
+                background-color: grey;
+                background-size: 200px;
+            }
+            h2 {color: rgb(red, green, blue);}
+            p {
+                color: red;
+                font-family: Impact;
+                text-shadow: -4px 4px 4px red;
+            }
+            .mobil {color: blue;}
+            #avanza {color: greenyellow;}
+
+
+        </style>
+    </head>
+    <body>
+        <h2>Hallo</h2>
+        <p>Hai</p>
+        <p class="mobil" id="avanza">Ini Avanza</p>
+        <p class="mobil" id="alya">Ini Alya</p>
+    </body>
+</html>
